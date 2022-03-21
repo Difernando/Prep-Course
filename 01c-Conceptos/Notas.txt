@@ -1,0 +1,3 @@
+
+Expressions: cualquier trozo de codigo que retorna un valor osea se convierte en algo
+Statements: trozo de codigo que realiza una acción
